@@ -1,0 +1,4 @@
+[{"name": "John Doe", "age": 30, "department": "HR", "salary": 50000}, 
+{"name": "Jane Smith", "age": 35, "department": "Finance", "salary": 60000}, 
+{"name": "Sam Johnson", "age": 28, "department": "IT", "salary": 55000}, 
+{"name": "Lisa Adams", "age": 40, "department": "Marketing", "salary": 65000}]

@@ -1,0 +1,16 @@
+,airline_Name,departure_city,arrival_city,ticket_price,stops,flight_duration,travel_date,class_type,booking_date
+0,IndiGo,DEL,BOM,"INR9,714.27",Cheapest direct,2h 25m,18 Jan,Economy,16 Dec
+1,Air India Express,DEL,BOM,"INR6,346.52",Direct,5h 10m,18 Jan,Economy,16 Dec
+2,Air India,DEL,BOM,"INR13,825.23",Flexible ticket upgrade available,2h 05m,18 Jan,Economy,16 Dec
+3,IndiGo,DEL,BOM,"INR10,025.59",Fastest,2h 20m,18 Jan,Economy,16 Dec
+4,IndiGo,DEL,BOM,"INR10,400.55",Direct,2h 20m,18 Jan,Economy,16 Dec
+5,Akasa Air,DEL,BOM,"INR10,835.02",Direct,2h 20m,18 Jan,Economy,16 Dec
+6,IndiGo,DEL,BOM,"INR11,640.01",Direct,2h 20m,18 Jan,Economy,16 Dec
+7,IndiGo,DEL,BOM,"INR11,950.34",Direct,2h 20m,18 Jan,Economy,16 Dec
+8,IndiGo,DEL,BOM,"INR12,555.82",Direct,2h 20m,18 Jan,Economy,16 Dec
+9,IndiGo,DEL,BOM,"INR12,555.82",Direct,2h 20m,18 Jan,Economy,16 Dec
+10,Air India,DEL,BOM,"INR13,594.68",Direct,2h 10m,18 Jan,Economy,16 Dec
+11,Air India,DEL,BOM,"INR13,594.68",Direct,2h 10m,18 Jan,Economy,16 Dec
+12,Air India,DEL,BOM,"INR13,594.68",Direct,2h 10m,18 Jan,Economy,16 Dec
+13,Air India,DEL,BOM,"INR13,594.68",Direct,2h 10m,18 Jan,Economy,16 Dec
+14,Air India,DEL,BOM,"INR13,594.68",Direct,2h 10m,18 Jan,Economy,16 Dec
